@@ -1,0 +1,30 @@
+#intro{
+
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+
+
+#text1{
+
+    font-style: italic;
+}
+
+
+#canvasSpace{
+
+    margin-left: 5%;
+    margin-top:  3%;
+    margin-right: 5%;
+    display:inline-block;
+}
+
+#startGame{
+
+    margin-left: 2%;
+}
+
+button{
+    margin-top: 2%;
+}
